@@ -11,6 +11,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ujjwalkr983/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Database
 |  |
@@ -31,12 +32,18 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
