@@ -9,6 +9,7 @@
 # String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
@@ -31,6 +32,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
@@ -46,4 +48,9 @@
 # Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
