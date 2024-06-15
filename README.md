@@ -27,6 +27,7 @@
 # Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
@@ -42,6 +43,7 @@
 # Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
@@ -63,4 +65,5 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
