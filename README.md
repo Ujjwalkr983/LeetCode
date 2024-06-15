@@ -27,6 +27,7 @@
 # Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
@@ -41,6 +42,7 @@
 # Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
@@ -58,3 +60,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
