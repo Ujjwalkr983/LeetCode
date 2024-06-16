@@ -35,6 +35,7 @@
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1961-maximum-ice-cream-bars](https://github.com/Ujjwalkr983/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ujjwalkr983/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -53,6 +54,7 @@
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1961-maximum-ice-cream-bars](https://github.com/Ujjwalkr983/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 # Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1961-maximum-ice-cream-bars](https://github.com/Ujjwalkr983/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 # Trie
 |  |
 | ------- |
