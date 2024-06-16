@@ -6,6 +6,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ujjwalkr983/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -33,6 +34,7 @@
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ujjwalkr983/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -50,12 +52,14 @@
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
 # Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
+| [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
 # Trie
 |  |
 | ------- |
