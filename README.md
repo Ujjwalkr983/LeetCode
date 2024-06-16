@@ -31,6 +31,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
+| [0330-patching-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Ujjwalkr983/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/0055-jump-game) |
+| [0330-patching-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
