@@ -6,6 +6,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ujjwalkr983/LeetCode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -86,3 +87,11 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Ujjwalkr983/LeetCode/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0633-sum-of-square-numbers) |
