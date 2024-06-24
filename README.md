@@ -49,6 +49,7 @@
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 | [2487-optimal-partition-of-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwalkr983/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ujjwalkr983/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 # Sorting
 |  |
 | ------- |
@@ -97,3 +99,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwalkr983/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+# Counting
+|  |
+| ------- |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
