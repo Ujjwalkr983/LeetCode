@@ -61,6 +61,7 @@
 | [0648-replace-words](https://github.com/Ujjwalkr983/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Ujjwalkr983/LeetCode/tree/master/0876-hand-of-straights) |
 | [0985-bag-of-tokens](https://github.com/Ujjwalkr983/LeetCode/tree/master/0985-bag-of-tokens) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ujjwalkr983/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjwalkr983/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ujjwalkr983/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -103,3 +104,19 @@
 |  |
 | ------- |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ujjwalkr983/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ujjwalkr983/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Sliding Window
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ujjwalkr983/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Ujjwalkr983/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
