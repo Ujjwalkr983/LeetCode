@@ -24,6 +24,7 @@
 | [0183-customers-who-never-order](https://github.com/Ujjwalkr983/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Ujjwalkr983/LeetCode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Ujjwalkr983/LeetCode/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Ujjwalkr983/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/1161-project-employees-i) |
