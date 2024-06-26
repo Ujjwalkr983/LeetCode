@@ -28,6 +28,7 @@
 | [1153-product-sales-analysis-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/1161-project-employees-i) |
 | [1801-average-time-of-process-per-machine](https://github.com/Ujjwalkr983/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/Ujjwalkr983/LeetCode/tree/master/2087-confirmation-rate) |
 # Greedy
 |  |
 | ------- |
