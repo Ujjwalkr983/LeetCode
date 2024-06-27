@@ -166,3 +166,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Ujjwalkr983/LeetCode/tree/master/1916-find-center-of-star-graph) |
