@@ -135,11 +135,13 @@
 # Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
@@ -150,9 +152,14 @@
 # Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 # Divide and Conquer
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
