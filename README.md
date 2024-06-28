@@ -170,3 +170,18 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Ujjwalkr983/LeetCode/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+<!---LeetCode Topics End-->
