@@ -219,4 +219,8 @@
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ujjwalkr983/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+## Database
+|  |
+| ------- |
+| [1942-primary-department-for-each-employee](https://github.com/Ujjwalkr983/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
