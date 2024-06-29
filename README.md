@@ -178,6 +178,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjwalkr983/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjwalkr983/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjwalkr983/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
