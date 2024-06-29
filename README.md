@@ -175,6 +175,7 @@
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjwalkr983/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -185,6 +186,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjwalkr983/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Dynamic Programming
@@ -224,4 +226,8 @@
 | ------- |
 | [1625-group-sold-products-by-the-date](https://github.com/Ujjwalkr983/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1942-primary-department-for-each-employee](https://github.com/Ujjwalkr983/LeetCode/tree/master/1942-primary-department-for-each-employee) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ujjwalkr983/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
