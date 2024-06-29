@@ -222,5 +222,6 @@
 ## Database
 |  |
 | ------- |
+| [1625-group-sold-products-by-the-date](https://github.com/Ujjwalkr983/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1942-primary-department-for-each-employee](https://github.com/Ujjwalkr983/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
