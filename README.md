@@ -179,6 +179,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,4 +238,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
