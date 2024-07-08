@@ -242,6 +242,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Ujjwalkr983/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 ## Greedy
 |  |
