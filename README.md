@@ -288,4 +288,12 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
