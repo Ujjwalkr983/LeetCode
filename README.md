@@ -247,6 +247,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
+| [3468-find-the-encrypted-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
 | ------- |
