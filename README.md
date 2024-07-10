@@ -244,6 +244,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -308,4 +309,8 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
