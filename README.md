@@ -229,6 +229,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -343,4 +344,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
