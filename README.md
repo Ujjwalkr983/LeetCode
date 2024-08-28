@@ -231,6 +231,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -238,6 +239,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -264,6 +266,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ujjwalkr983/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -291,6 +294,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwalkr983/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
@@ -350,4 +354,5 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
