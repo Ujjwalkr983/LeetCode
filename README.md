@@ -265,6 +265,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ujjwalkr983/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ujjwalkr983/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3468-find-the-encrypted-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Greedy
 |  |
@@ -331,6 +332,7 @@
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ujjwalkr983/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Recursion
 |  |
 | ------- |
