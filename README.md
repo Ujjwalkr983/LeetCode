@@ -232,6 +232,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
@@ -279,6 +280,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -371,6 +373,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
