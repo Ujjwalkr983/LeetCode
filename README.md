@@ -390,4 +390,8 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Linked List
+|  |
+| ------- |
+| [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
