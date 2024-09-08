@@ -16,8 +16,12 @@ public:
         ListNode* curr = head;
         for (int i = 0; i < k && curr != nullptr; i++) {
             result[i] = curr;
-            int c = a + (i < b ? 1 : 0);
 
+            int c = 0;
+            if (i < b)
+                c = a + 1;
+            else
+                c = a + 0;
             for (int j = 1; j < c; j++) {
                 if (curr) {
                     curr = curr->next;
@@ -27,7 +31,7 @@ public:
             if (curr) {
                 ListNode* nextPart = curr->next;
                 curr->next = nullptr;
-                curr= nextPart;
+                curr = nextPart;
             }
         }
 
