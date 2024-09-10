@@ -251,6 +251,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -331,6 +333,7 @@
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -388,6 +391,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ujjwalkr983/LeetCode/tree/master/0054-spiral-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
