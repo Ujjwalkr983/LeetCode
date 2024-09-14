@@ -241,6 +241,7 @@
 | [0053-maximum-subarray](https://github.com/Ujjwalkr983/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ujjwalkr983/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ujjwalkr983/LeetCode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Ujjwalkr983/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwalkr983/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Ujjwalkr983/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
@@ -404,4 +406,8 @@
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
