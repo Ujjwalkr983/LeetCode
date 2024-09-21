@@ -412,6 +412,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Bit Manipulation
 |  |
