@@ -201,6 +201,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ujjwalkr983/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -419,4 +420,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0090-subsets-ii) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
