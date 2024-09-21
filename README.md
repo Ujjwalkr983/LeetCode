@@ -339,6 +339,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -356,6 +357,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -409,6 +411,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Bit Manipulation
 |  |
