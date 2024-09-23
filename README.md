@@ -359,6 +359,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -367,6 +368,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ujjwalkr983/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -397,6 +399,7 @@
 | [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0908-middle-of-the-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0908-middle-of-the-linked-list) |
