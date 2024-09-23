@@ -399,6 +399,7 @@
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -415,6 +416,7 @@
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0908-middle-of-the-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
