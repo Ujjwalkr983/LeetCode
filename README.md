@@ -261,6 +261,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
@@ -399,6 +400,7 @@
 | [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Ujjwalkr983/LeetCode/tree/master/0725-split-linked-list-in-parts) |
