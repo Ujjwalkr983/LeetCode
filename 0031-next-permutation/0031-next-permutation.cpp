@@ -15,6 +15,5 @@ public:
         }
 
         sort(nums.begin()+ 1 + ind, nums.end());
-
     }
 };
