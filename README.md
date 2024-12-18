@@ -256,6 +256,7 @@
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Ujjwalkr983/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ujjwalkr983/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -388,6 +389,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ujjwalkr983/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/Ujjwalkr983/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ujjwalkr983/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Divide and Conquer
@@ -453,4 +455,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ujjwalkr983/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
