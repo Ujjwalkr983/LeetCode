@@ -283,6 +283,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ujjwalkr983/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwalkr983/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -297,6 +298,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ujjwalkr983/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ujjwalkr983/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3468-find-the-encrypted-string](https://github.com/Ujjwalkr983/LeetCode/tree/master/3468-find-the-encrypted-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwalkr983/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -427,6 +429,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwalkr983/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
