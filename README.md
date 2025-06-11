@@ -234,6 +234,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
@@ -275,6 +276,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/0560-subarray-sum-equals-k) |
