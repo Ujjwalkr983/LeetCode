@@ -246,6 +246,7 @@
 | [0053-maximum-subarray](https://github.com/Ujjwalkr983/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ujjwalkr983/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Ujjwalkr983/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ujjwalkr983/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Ujjwalkr983/LeetCode/tree/master/0118-pascals-triangle) |
@@ -317,6 +318,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ujjwalkr983/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Ujjwalkr983/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -441,6 +443,7 @@
 | [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ujjwalkr983/LeetCode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ujjwalkr983/LeetCode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
