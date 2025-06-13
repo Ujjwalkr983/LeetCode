@@ -251,6 +251,7 @@
 | [0090-subsets-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Ujjwalkr983/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwalkr983/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -279,6 +280,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -319,6 +321,7 @@
 | [0015-3sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ujjwalkr983/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjwalkr983/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -418,6 +421,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ujjwalkr983/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -434,6 +438,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwalkr983/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
