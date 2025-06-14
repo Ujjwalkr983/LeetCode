@@ -311,6 +311,7 @@
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ujjwalkr983/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ujjwalkr983/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ujjwalkr983/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Graph
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ujjwalkr983/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ujjwalkr983/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/3371-harshad-number) |
