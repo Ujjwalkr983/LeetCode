@@ -269,6 +269,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ujjwalkr983/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Ujjwalkr983/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ujjwalkr983/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
