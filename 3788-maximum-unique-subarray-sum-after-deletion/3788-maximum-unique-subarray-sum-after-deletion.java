@@ -1,23 +1,19 @@
 class Solution {
     public int maxSum(int[] nums) {
+        Arrays.sort(nums);
         int n = nums.length;
-        int sum = 0;
-        Set<Integer> st = new HashSet<>();
-        
-        for (int i = 0; i < n; i++) {
-            st.add(nums[i]);
+        int ans = nums[n - 1];
+
+        Map<Integer, Integer> mp = new HashMap<>();
+        mp.put(nums[n - 1], 1);
+
+        for (int it : nums) {
+            if (it <= 0) continue;
+            if (mp.containsKey(it)) continue;
+            ans += it;
+            mp.put(it, 1);
         }
 
-        int maxNegative = Integer.MIN_VALUE;
-
-        for (int num : st) {
-            if (num > 0) {
-                sum += num;
-            } else {
-                maxNegative = Math.max(maxNegative, num);
-            }
-        }
-
-        return sum == 0 ? maxNegative : sum;
+        return ans;
     }
 }
