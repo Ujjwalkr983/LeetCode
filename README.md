@@ -388,6 +388,7 @@
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
@@ -414,6 +415,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Ujjwalkr983/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -493,6 +495,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0090-subsets-ii) |
+| [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
