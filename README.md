@@ -314,6 +314,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Ujjwalkr983/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ujjwalkr983/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ujjwalkr983/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -389,6 +390,7 @@
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
