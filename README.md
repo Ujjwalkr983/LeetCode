@@ -253,6 +253,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwalkr983/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Ujjwalkr983/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ujjwalkr983/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -285,6 +286,7 @@
 | [0001-two-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ujjwalkr983/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -332,6 +334,7 @@
 | [0056-merge-intervals](https://github.com/Ujjwalkr983/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjwalkr983/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ujjwalkr983/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -364,6 +367,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ujjwalkr983/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ujjwalkr983/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
@@ -390,6 +394,7 @@
 | [0002-add-two-numbers](https://github.com/Ujjwalkr983/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
@@ -499,6 +504,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Ujjwalkr983/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ujjwalkr983/LeetCode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
 ## Trie
 |  |
