@@ -259,6 +259,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ujjwalkr983/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0661-image-smoother](https://github.com/Ujjwalkr983/LeetCode/tree/master/0661-image-smoother) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Ujjwalkr983/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Ujjwalkr983/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
