@@ -272,6 +272,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ujjwalkr983/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwalkr983/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ujjwalkr983/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -292,6 +293,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwalkr983/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ujjwalkr983/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -338,6 +340,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwalkr983/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ujjwalkr983/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjwalkr983/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Heap (Priority Queue)
@@ -418,6 +421,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ujjwalkr983/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ujjwalkr983/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwalkr983/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
