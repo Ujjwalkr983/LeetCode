@@ -282,6 +282,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ujjwalkr983/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjwalkr983/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjwalkr983/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwalkr983/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -470,6 +472,7 @@
 | [0948-sort-an-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0948-sort-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ujjwalkr983/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ujjwalkr983/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
