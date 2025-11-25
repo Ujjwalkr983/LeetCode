@@ -295,6 +295,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0926-find-and-replace-pattern](https://github.com/Ujjwalkr983/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjwalkr983/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ujjwalkr983/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwalkr983/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -405,6 +406,7 @@
 | [0189-rotate-array](https://github.com/Ujjwalkr983/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ujjwalkr983/LeetCode/tree/master/0342-power-of-four) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1448-maximum-69-number](https://github.com/Ujjwalkr983/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Ujjwalkr983/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ujjwalkr983/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
