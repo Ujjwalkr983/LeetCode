@@ -231,6 +231,7 @@
 | [0118-pascals-triangle](https://github.com/Ujjwalkr983/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjwalkr983/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ujjwalkr983/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -275,6 +276,7 @@
 | [2155-find-missing-observations](https://github.com/Ujjwalkr983/LeetCode/tree/master/2155-find-missing-observations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ujjwalkr983/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ujjwalkr983/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ujjwalkr983/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjwalkr983/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -496,6 +498,7 @@
 | [0048-rotate-image](https://github.com/Ujjwalkr983/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ujjwalkr983/LeetCode/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Ujjwalkr983/LeetCode/tree/master/0661-image-smoother) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ujjwalkr983/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ujjwalkr983/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjwalkr983/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Prefix Sum
